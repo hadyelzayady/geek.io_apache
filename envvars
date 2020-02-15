@@ -49,4 +49,4 @@ export LANG
 #geek.io vars
 #nodejs-server.local dns record is added in /etc/hosts file
 export NODEJS_HOST='http://nodejs-server.local'
-export NODEJS_PORT=8000
+export NODEJS_PORT=3000
